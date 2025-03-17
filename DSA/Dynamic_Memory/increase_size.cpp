@@ -29,3 +29,5 @@ cin.tie(0);
     }
     return 0;
 }
+
+// We can increase size using dynamic array
